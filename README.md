@@ -3,6 +3,7 @@
 
 # read
 Di wegodev materinya to the point dan terstruktur, jadi gak bikin pusing otak kamu.
-Liat, praktek, sukses..
+
+Lihat, praktek, sukses..
 
 Coba Metode Studi Kasus GRATIS bikin kalkulator dari nol https://www.wegodev.com/kalkulator.html
